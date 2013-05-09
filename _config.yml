@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : ABroadDeveloper 
-tagline: Learn all the things as if you have all the time
+title : Title 
+tagline: Learning is fun 
 author : Neshura
   name : Amanda Gilbert
   email : neshura@gmail.com
